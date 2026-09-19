@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Vitoria! ♏ </h1>
+<h1 align="center">Olá, eu sou a Vitoria! ☆ </h1>
 
 <p align="center">
 | Estudante de Sistemas de Informaçãoo |
@@ -32,7 +32,8 @@
 ### 📫 Contato
 
 - ✉️ E-mail: [vitoriaalvis56@gmail.com](mailto:vitoriaalvis56@gmail.com)  
-- 📱 WhatsApp: (91) 98528-1029 
+- 📱 WhatsApp: (91) 98528-1029
+- LinkedIn: www.linkedin.com/in/vitoria-santiago-32b032306
 
 ---
 ![aesthetic gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGtkODduamFxaGppenJ0bzJidDUwejl5eXVmYm5sOTdvZGhxdHNyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A91bqJykqcvsy9vkIS/giphy.gif)
